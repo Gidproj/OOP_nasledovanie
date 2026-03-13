@@ -1,11 +1,3 @@
-﻿
-//Создай иерархию :
-//
-//Employee(имя, зарплата)
-//Manager(команда)
-//Developer(язык программирования)
-//Переопредели метод printInfo() для каждого.
-
 #include <windows.h>
 #include <algorithm>
 #include <iostream>
@@ -89,4 +81,5 @@ int main()
     e2.Print_info();
     e3.Print_info();
 }
+
 
